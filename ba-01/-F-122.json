@@ -1,0 +1,66 @@
+{
+    "aliquot": 122, 
+    "analysis_type": "blank_air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "a388a114034223f09015d268fe4bb92b9ad7be66", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_air_x2.py", 
+    "identifier": "ba-01-F", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 16, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "", 
+    "measurement": "felix_analysis600_180.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Clark", 
+    "sample": "blank_air", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-24T22:10:29.565985", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "22c55781-1bee-4e64-a920-e603a608b837"
+}
